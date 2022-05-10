@@ -15,9 +15,9 @@
   
 </div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryoasai-git&show_icons=true&locale=en&layout=compact" alt="ryoasai-git" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryoasai-git&show_icons=true&locale=en" alt="ryoasai-git" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryoasai-git&show_icons=true&locale=en&layout=compact" alt="ryoasai-git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryoasai-git&show_icons=true&locale=en" alt="ryoasai-git" />
 </p>
 
 
