@@ -17,5 +17,5 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryoasai-git&show_icons=true&locale=en&layout=compact" alt="ryoasai-git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryoasai-git&show_icons=true&locale=en" alt="ryoasai-git" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryoasai-git&show_icons=true&locale=en" alt="ryoasai-git" /></p>
 
