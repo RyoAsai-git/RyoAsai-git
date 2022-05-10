@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm RyoAsai</h1>
 
+![Test Image 1](profile-3d-contrib/profile-season-animate.svg)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryoasai-git" alt="ryoasai-git" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
