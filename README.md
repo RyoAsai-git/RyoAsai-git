@@ -11,7 +11,6 @@
 <div align="center">
   
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Asaiii12/posts.svg)](http://qiita.com/Asaiii12)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Asaiii12/posts.svg)](http://qiita.com/Asaiii12)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Asaiii12/contributions.svg)](http://qiita.com/Asaiii12)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Asaiii12/followers.svg)](http://qiita.com/Asaiii12)
   
