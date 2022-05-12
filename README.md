@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me **fu.orangina0516@icloud.com**
+  <b>📫 How to reach me **fu.orangina0516@icloud.com**</b>
 </p>
 
-<p align="center">Thank you!</p>
+<p align="center"><b>Thank you!</b></p>
