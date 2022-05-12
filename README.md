@@ -21,4 +21,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ryoasai-git&show_icons=true&locale=en" alt="ryoasai-git" />
 </p>
 
+<p align="center">
+  📫 How to reach me **fu.orangina0516@icloud.com**
+</p>
 
+<p align="center">Thank you!</p>
