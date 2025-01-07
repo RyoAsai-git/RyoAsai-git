@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>📫 How to reach me **fu.orangina0516@icloud.com**</b>
+  <b>📫 How to reach me **fu.orangina0516@gmail.com**</b>
 </p>
 
 <p align="center"><b>Thank you!</b></p>
